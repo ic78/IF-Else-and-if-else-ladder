@@ -1,0 +1,21 @@
+void main() {
+//   //int
+//   int score = 23;
+//   var count = 23;
+//   int hexValue = 0xEADEBAEE;
+//   //double
+//   double percentage = 33.55;
+//   var percent = 55.34;
+//   double exponents = 1.334e5;
+//   //Strings
+//   String name;
+//   var company = "Google";
+//   //boolean
+//   bool isValid;
+//   var isAlive = false;
+
+//   print(score);
+//   print(hexValue);
+  
+  
+}

@@ -1,0 +1,23 @@
+void main() {  
+// //   literals
+//   var isCool = true;
+//   int x = 2;
+//   "John";
+//   4.5;
+// //   various way to define string liteals in dart
+//   String s1 = 'Single';
+//   String s2 = "Double";
+//   String s3 = 'It\'s easy';
+//   String s4 = "It's Hard";
+//   String s5 = 'This is going to be a very long Sting.'
+//     ' This is just a sample string demo in dart';
+// //   string interpolation
+//   String name = "kavin";
+// //   String message = "My name is $name;
+//   print("My Name Is $name");
+//   print("The number of characters in String Kavin is: ${name.length}");
+//   int l= 200;
+//   int b= 34;
+//   print("the sum of $l and $b is ${l+b}");
+
+}
